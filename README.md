@@ -30,15 +30,15 @@ Currently, I'm seeking new challenges as a Frontend Developer where I can grow, 
 Here are a few things I've worked on (check my pinned repos!):
 
 - 📝 **Task Management App** – React + TypeScript + Firebase  
-- 🎮 **Game Design Projects** – Built with Unity and C# (educational and personal)
-- 🤖 **Robotics Learning Modules** – Arduino + LEGO kits for interactive STEM education
+- 🎮 **Game Design Projects** – Built with Unity and C# (educational and personal)  
+- 🤖 **Robotics Learning Modules** – Arduino + LEGO kits for interactive STEM education  
 
 ---
 
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/salvadorvasqz/)
-- 🧠 [Portfolio or blog – add if available]
-- 📧 [Your email – optional]
+- 📦 [NPM](https://www.npmjs.com/~salvadorvasqz)
+- 📧 **salvadorvasquezn@gmail.com**
 
 Thanks for visiting my profile!
